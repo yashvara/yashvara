@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-vara-4795001b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-vara-4795001b8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yashvara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yashvara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@yash_vara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yash_vara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yashvara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yashvara" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yash_vara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@yash_vara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
