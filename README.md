@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Vara</h1>
 <h3 align="center">Hi, I'm Yash, a dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 - 🌱 I’m currently learning **React**
