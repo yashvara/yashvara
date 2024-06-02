@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://yashvara-portfolio.onrender.com)
 
 <h1 align="center">Hi 👋, I'm Yash Vara</h1>
-<h3 align="center">Hi, I'm Yash, a dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
+<h3 align="center">A dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
