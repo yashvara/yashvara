@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yashvara3378@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing](https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing](https://drive.google.com/file/d/1w-quLjlc-X6ZA3lSvuqzkXp0ghpownLu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
