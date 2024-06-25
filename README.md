@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://yashvara-portfolio.onrender.com)
 
 <h1 align="center">Hello 👋, I'm Yash Vara</h1>
 <h3 align="center">A dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
