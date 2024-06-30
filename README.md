@@ -3,9 +3,9 @@
 <h3 align="center">A dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://yashvara-portfolio.onrender.com](https://yashvara-portfolio.onrender.com)
+- 👨‍💻 Portfolio : [https://yashvara-portfolio.onrender.com](https://yashvara-portfolio.onrender.com)
 
 - 📫 How to reach me **yashvara3378@gmail.com**
 
