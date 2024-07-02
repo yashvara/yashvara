@@ -2,14 +2,20 @@
 <h1 align="center">Hello 👋, I'm Yash Vara</h1>
 <h3 align="center">A dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
 
+<ul>
+  <li>🌱 I’m currently learning <strong>React.js</strong></li>
+  <li>👨‍💻 Portfolio: <a href="https://yashvara-portfolio.onrender.com" target="_blank">https://yashvara-portfolio.onrender.com</a></li>
+  <li>📫 How to reach me: <strong>yashvara3378@gmail.com</strong></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1yuwDBhUXtrbyuRnB2lzfKIVSGUR48lqq/view?usp=sharing</a></li>
+</ul>
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 Portfolio : [https://yashvara-portfolio.onrender.com](https://yashvara-portfolio.onrender.com)
-
-- 📫 How to reach me **yashvara3378@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing](https://drive.google.com/file/d/1yuwDBhUXtrbyuRnB2lzfKIVSGUR48lqq/view?usp=sharing)
+<style>
+  a[target="_blank"]:after {
+    content: ' (opens in a new tab)';
+    font-size: smaller;
+    color: #555;
+  }
+</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
