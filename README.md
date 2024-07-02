@@ -9,13 +9,6 @@
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1yuwDBhUXtrbyuRnB2lzfKIVSGUR48lqq/view?usp=sharing</a></li>
 </ul>
 
-<style>
-  a[target="_blank"]:after {
-    content: ' (opens in a new tab)';
-    font-size: smaller;
-    color: #555;
-  }
-</style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
