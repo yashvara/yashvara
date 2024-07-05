@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Yash Vara</h1>
-<h3 align="center">A dedicated developer skilled in React Native, Node.js, and PHP. I make software so good, even my coffee gets Java envy!</h3>
+<h3 align="center">where even my bad code works perfectly every time I run it. Dive into my GitHub for software that defies expectations!</h3>
 
 <ul>
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
