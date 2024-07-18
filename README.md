@@ -6,7 +6,8 @@
   <li>🌱 I’m currently learning <strong>React.js</strong></li>
   <li>👨‍💻 Portfolio: <a href="https://yashvara-portfolio.onrender.com" target="_blank">https://yashvara-portfolio.onrender.com</a></li>
   <li>📫 How to reach me: <strong>yashvara3378@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1yuwDBhUXtrbyuRnB2lzfKIVSGUR48lqq/view?usp=sharing</a></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing</a></li>
+  <li>🛠️ Recent work: Image search web app <a href="https://search-img-oo4k.onrender.com/" target="_blank">https://search-img-oo4k.onrender.com/</a></li>
 </ul>
 
 
