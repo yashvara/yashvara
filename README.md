@@ -8,7 +8,9 @@
   <li>📫 How to reach me: <strong>yashvara3378@gmail.com</strong></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1ze4Hr2nQg-lTq4pGUDuNBf_4QECfKgbK/view?usp=sharing</a></li>
   <li>🛠️ Recent work: Image search web app <a href="https://search-img-oo4k.onrender.com/" target="_blank">https://search-img-oo4k.onrender.com/</a></li>
+  <li>🏆 280+ contributions on <a href="https://leetcode.com/u/yash_vara/" target="_blank">LeetCode</a></li>
 </ul>
+
 
 
 <h3 align="left">Connect with me:</h3>
